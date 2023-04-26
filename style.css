@@ -21,3 +21,15 @@ h2 {
     border-width: auto;
     background-color: burlywood;
 }
+
+h3 {
+    display:inline-block;
+    height: 5%;
+    font-family:"Cominc Sans MS", "Comic Sans", cursive;
+    color: black;
+    border-style: hidden;
+    border-color:antiquewhite;
+    border-width: auto;
+    background-color: azure;
+
+}
