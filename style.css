@@ -1,6 +1,17 @@
-#h1{
+h1 {
+    height: 50px;
     font-family: 'Courier New', Courier, monospace;
     color: green;
-    border-radius: 200px;
+    border-style: groove;
     border-color: aqua;
+    border-width: auto;
+    background-color: orange;
+    background-size: auto;
+    margin-left: 250px;
+    margin-right: 250px;
 }
+
+
+h2 [
+    
+]
