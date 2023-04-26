@@ -1,4 +1,5 @@
 h1 {
+    display: inline-block;
     height: 50px;
     font-family: 'Courier New', Courier, monospace;
     color: green;
@@ -7,11 +8,16 @@ h1 {
     border-width: auto;
     background-color: orange;
     background-size: auto;
-    margin-left: 250px;
-    margin-right: 250px;
 }
 
 
-h2 [
-    
-]
+h2 {
+    display: inline-block;
+    height: 50px;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    color: tomato;
+    border-style: ridge;
+    border-color: blue;
+    border-width: auto;
+    background-color: burlywood;
+}
